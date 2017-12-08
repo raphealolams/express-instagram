@@ -1,0 +1,27 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "A simple node.js app to get user instagram post",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphealolams/express-instagram.git"
+  },
+  "keywords": [
+    "Api"
+  ],
+  "author": "Ajilore Raphael Olamide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphealolams/express-instagram/issues"
+  },
+  "homepage": "https://github.com/raphealolams/express-instagram#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8"
+  }
+}
